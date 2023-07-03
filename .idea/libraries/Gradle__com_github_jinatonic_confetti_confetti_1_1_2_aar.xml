@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: com.github.jinatonic.confetti:confetti:1.1.2@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cc73f604fdc1fb7a838f6a70f577f186/jetified-confetti-1.1.2/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cc73f604fdc1fb7a838f6a70f577f186/jetified-confetti-1.1.2/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cc73f604fdc1fb7a838f6a70f577f186/jetified-confetti-1.1.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a00e47bbe73e2f4af3907c8e2364e814/transformed/jetified-confetti-1.1.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/a00e47bbe73e2f4af3907c8e2364e814/transformed/jetified-confetti-1.1.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a00e47bbe73e2f4af3907c8e2364e814/transformed/jetified-confetti-1.1.2/res" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.jinatonic.confetti/confetti/1.1.2/e4541dd11fea50bb6788d41ff0f2c131ac8f72ff/confetti-1.1.2-javadoc.jar!/" />

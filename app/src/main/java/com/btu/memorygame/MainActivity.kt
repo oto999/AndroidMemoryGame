@@ -1,4 +1,4 @@
-package com.btuMemoryGame.mymemory
+package com.btu.memorygame
 
 import android.animation.ArgbEvaluator
 import android.app.Activity
@@ -27,12 +27,13 @@ import com.google.firebase.analytics.ktx.logEvent
 import com.google.firebase.firestore.ktx.firestore
 import com.google.firebase.ktx.Firebase
 import com.google.firebase.remoteconfig.ktx.remoteConfig
-import com.btuMemoryGame.mymemory.creation.CreateActivity
-import com.btuMemoryGame.mymemory.models.BoardSize
-import com.btuMemoryGame.mymemory.models.MemoryGame
-import com.btuMemoryGame.mymemory.models.UserImageList
-import com.btuMemoryGame.mymemory.utils.EXTRA_BOARD_SIZE
-import com.btuMemoryGame.mymemory.utils.EXTRA_GAME_NAME
+import com.btu.memorygame.creation.CreateActivity
+import com.btu.memorygame.models.BoardSize
+import com.btu.memorygame.models.MemoryGame
+import com.btu.memorygame.models.UserImageList
+import com.btu.memorygame.utils.EXTRA_BOARD_SIZE
+import com.btu.memorygame.utils.EXTRA_GAME_NAME
+import com.btuMemoryGame.mymemory.R
 import com.squareup.picasso.Picasso
 
 class MainActivity : AppCompatActivity() {

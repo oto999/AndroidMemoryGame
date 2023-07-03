@@ -1,4 +1,4 @@
-package com.btuMemoryGame.mymemory.models
+package com.btu.memorygame.models
 
 import com.google.firebase.firestore.PropertyName
 

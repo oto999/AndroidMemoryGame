@@ -1,4 +1,4 @@
-package com.btuMemoryGame.mymemory.creation
+package com.btu.memorygame.creation
 
 import android.app.Activity
 import android.content.Intent
@@ -28,11 +28,11 @@ import com.google.firebase.firestore.ktx.firestore
 import com.google.firebase.ktx.Firebase
 import com.google.firebase.remoteconfig.ktx.remoteConfig
 import com.google.firebase.storage.ktx.storage
+import com.btu.memorygame.models.BoardSize
+import com.btu.memorygame.utils.BitmapScaler
+import com.btu.memorygame.utils.EXTRA_BOARD_SIZE
+import com.btu.memorygame.utils.EXTRA_GAME_NAME
 import com.btuMemoryGame.mymemory.R
-import com.btuMemoryGame.mymemory.models.BoardSize
-import com.btuMemoryGame.mymemory.utils.BitmapScaler
-import com.btuMemoryGame.mymemory.utils.EXTRA_BOARD_SIZE
-import com.btuMemoryGame.mymemory.utils.EXTRA_GAME_NAME
 import java.io.ByteArrayOutputStream
 
 class CreateActivity : AppCompatActivity() {

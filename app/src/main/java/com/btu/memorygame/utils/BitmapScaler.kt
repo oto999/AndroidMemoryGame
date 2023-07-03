@@ -1,4 +1,4 @@
-package com.btuMemoryGame.mymemory.utils
+package com.btu.memorygame.utils
 
 import android.graphics.Bitmap
 

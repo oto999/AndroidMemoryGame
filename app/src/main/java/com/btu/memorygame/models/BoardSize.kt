@@ -1,4 +1,4 @@
-package com.btuMemoryGame.mymemory.models
+package com.btu.memorygame.models
 
 enum class BoardSize(val numCards: Int) {
   EASY(8),

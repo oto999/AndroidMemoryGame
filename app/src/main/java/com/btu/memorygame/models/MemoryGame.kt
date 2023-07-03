@@ -1,6 +1,6 @@
-package com.btuMemoryGame.mymemory.models
+package com.btu.memorygame.models
 
-import com.btuMemoryGame.mymemory.utils.DEFAULT_ICONS
+import com.btu.memorygame.utils.DEFAULT_ICONS
 
 class MemoryGame(private val boardSize: BoardSize, customImages: List<String>?) {
 

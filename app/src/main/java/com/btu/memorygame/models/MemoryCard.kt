@@ -1,4 +1,4 @@
-package com.btuMemoryGame.mymemory.models
+package com.btu.memorygame.models
 
 data class MemoryCard(
   val identifier: Int,

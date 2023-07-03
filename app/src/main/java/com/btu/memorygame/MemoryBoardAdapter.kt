@@ -1,4 +1,4 @@
-package com.btuMemoryGame.mymemory
+package com.btu.memorygame
 
 import android.content.Context
 import android.util.Log
@@ -10,8 +10,9 @@ import androidx.cardview.widget.CardView
 import androidx.core.content.ContextCompat
 import androidx.core.view.ViewCompat
 import androidx.recyclerview.widget.RecyclerView
-import com.btuMemoryGame.mymemory.models.BoardSize
-import com.btuMemoryGame.mymemory.models.MemoryCard
+import com.btu.memorygame.models.BoardSize
+import com.btu.memorygame.models.MemoryCard
+import com.btuMemoryGame.mymemory.R
 import com.squareup.picasso.Picasso
 import kotlin.math.min
 

@@ -1,6 +1,7 @@
-package com.btuMemoryGame.mymemory.utils
+package com.btu.memorygame.utils
 
 import com.btuMemoryGame.mymemory.R
+
 
 const val EXTRA_GAME_NAME = "EXTRA_GAME_NAME"
 const val EXTRA_BOARD_SIZE = "EXTRA_BOARD_SIZE"
